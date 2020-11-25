@@ -18,6 +18,8 @@ Machine Learning is a closely related term. It is the study and implementation o
 > 
 > -Tom M. Mitchell
 
+![](https://www.qubole.com/wp-content/uploads/2018/08/1-400x387.png)
+
 ## How does Machine Learning work?
 
 In machine learning, data is fed into an algorithm that creates a model for how future data of the same type is to be evaluated.  We train the algorithms to provide appropriate outputs of inputs.  There are three main types of machine learning.
