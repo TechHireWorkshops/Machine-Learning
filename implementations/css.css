@@ -1,0 +1,7 @@
+img {
+  height: 40vh;
+  width: 50vw;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 5vh;
+}
